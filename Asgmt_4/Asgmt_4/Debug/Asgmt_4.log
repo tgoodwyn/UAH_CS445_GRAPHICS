@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\_fall_2019\uh_gfx\asgmts\asgmt_4\asgmt_4\source.cpp(28): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\_fall_2019\uh_gfx\asgmts\asgmt_4\asgmt_4\source.cpp(62): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\_fall_2019\uh_gfx\asgmts\asgmt_4\asgmt_4\source.cpp(126): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\_fall_2019\uh_gfx\asgmts\asgmt_4\asgmt_4\source.cpp(127): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+c:\_fall_2019\uh_gfx\asgmts\asgmt_4\asgmt_4\source.cpp(128): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+c:\_fall_2019\uh_gfx\asgmts\asgmt_4\asgmt_4\source.cpp(129): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Asgmt_4.vcxproj -> C:\_Fall_2019\UH_GFX\Asgmts\Asgmt_4\Asgmt_4\Debug\Asgmt_4.exe

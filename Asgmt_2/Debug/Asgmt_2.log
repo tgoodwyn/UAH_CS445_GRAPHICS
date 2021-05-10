@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\_fall_2019\uh_gfx\asgmts\asgmt_2\source.cpp(54): warning C4101: 'point': unreferenced local variable
+c:\_fall_2019\uh_gfx\asgmts\asgmt_2\source.cpp(104): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\_fall_2019\uh_gfx\asgmts\asgmt_2\source.cpp(109): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\_fall_2019\uh_gfx\asgmts\asgmt_2\source.cpp(110): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Asgmt_2.vcxproj -> C:\_Fall_2019\UH_GFX\Asgmts\Asgmt_2\Debug\Asgmt_2.exe
